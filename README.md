@@ -19,7 +19,7 @@ This is by no means a comprehensive list on the subject of ML/AI. However, I fin
 
 ## 8. [Probabilistic Graphical Models: Principles and Techniques](https://mitpress.mit.edu/books/probabilistic-graphical-models) - Daphne Koller and Nir Friedman
 
-## 9. [Information Theory, Inference, and Learning Algorithms](https://www.cambridge.org/core/books/information-theory-inference-and-learning-algorithms/22DEDA13E370FDDDB4A94353E9C7A9DC) - David J.C. MacKay
+## 9. [Information Theory, Inference, and Learning Algorithms](https://www.amazon.com/Information-Theory-Inference-Learning-Algorithms/dp/0521642981) - David J.C. MacKay
 
 ## 10. [Pattern Classification](https://www.wiley.com/en-us/Pattern+Classification%2C+2nd+Edition-p-9780471056690) - Richard O. Duda, Peter E. Hart, and David G. Stork
 
