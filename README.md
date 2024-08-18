@@ -90,11 +90,9 @@ This is by no means a comprehensive list on the subject of ML/AI. However, I fin
 ## 43. [Professional C++](https://www.wiley.com/en-us/Professional+C%2B%2B%2C+6th+Edition-p-9781394193172) - Marc Gregoire
 
 
-## 44. [Bayesian Data Analysis](https://www.amazon.com/Bayesian-Analysis-Chapman-Statistical-Science/dp/1439840954/ref=sr_1_1?dib=eyJ2IjoiMSJ9.EMJLI8dChU7TlsaZx0REqfeb6fYEy6RYrNv24DVJYio.sfsdkOGKBmplp01MTNMKIF1iALHoiO9gD-mXWT7tMZE&dib_tag=se&keywords=9781439840955&linkCode=qs&qid=1723984956&s=books&sr=1-1) - 
-Andrew Gelman
+## 44. [Bayesian Data Analysis](https://www.amazon.com/Bayesian-Analysis-Chapman-Statistical-Science/dp/1439840954/ref=sr_1_1?dib=eyJ2IjoiMSJ9.EMJLI8dChU7TlsaZx0REqfeb6fYEy6RYrNv24DVJYio.sfsdkOGKBmplp01MTNMKIF1iALHoiO9gD-mXWT7tMZE&dib_tag=se&keywords=9781439840955&linkCode=qs&qid=1723984956&s=books&sr=1-1) - Andrew Gelman
 
-## 45. [    High Performance Computing](https://www.amazon.com/High-Performance-Computing-Applications-Computational-ebook/dp/B00OD4ODHU/ref=sr_1_1?dib=eyJ2IjoiMSJ9.7WSWLRBHfml0iV-Qzcof8A.O2yEJ6o97Y7KMgdihPJO6hJp_y005T29eKBU61oPMUQ&dib_tag=se&keywords=9781420077063&linkCode=qs&qid=1723985118&s=books&sr=1-1) - 
-John Levesque
+## 45. [    High Performance Computing](https://www.amazon.com/High-Performance-Computing-Applications-Computational-ebook/dp/B00OD4ODHU/ref=sr_1_1?dib=eyJ2IjoiMSJ9.7WSWLRBHfml0iV-Qzcof8A.O2yEJ6o97Y7KMgdihPJO6hJp_y005T29eKBU61oPMUQ&dib_tag=se&keywords=9781420077063&linkCode=qs&qid=1723985118&s=books&sr=1-1) - John Levesque
 
 ## 46. [Dive into Deep Learning](https://d2l.ai/ ) - Aston Zhang
 
