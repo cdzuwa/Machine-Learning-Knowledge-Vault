@@ -25,76 +25,74 @@ This is by no means a comprehensive list on the subject of ML/AI. However, I fin
 
 ## 11. [Understanding Machine Learning: From Theory to Algorithms](https://www.amazon.com/Understanding-Machine-Learning-Theory-Algorithms/dp/1107057132) - Shai Shalev-Shwartz and Shai Ben-David
 
-## 12. [Introduction to the Theory of Statistical Learning](https://www.springer.com/gp/book/9780387848570) - Trevor Hastie, Robert Tibshirani, Jerome Friedman
+## 12. [Machine Learning Yearning](https://info.deeplearning.ai/machine-learning-yearning-book) - Andrew Ng
 
-## 13. [Machine Learning Yearning](https://info.deeplearning.ai/machine-learning-yearning-book) - Andrew Ng
+## 13. [Artificial Intelligence: A Modern Approach](https://www.pearson.com/store/p/artificial-intelligence-a-modern-approach/P100000352236) - Stuart Russell and Peter Norvig
 
-## 14. [Artificial Intelligence: A Modern Approach](https://www.pearson.com/store/p/artificial-intelligence-a-modern-approach/P100000352236) - Stuart Russell and Peter Norvig
+## 14. [Machine Learning: An Algorithmic Perspective](https://www.routledge.com/Machine-Learning-An-Algorithmic-Perspective-Second-Edition/Marsland/p/book/9781466583283) - Stephen Marsland
 
-## 15. [Machine Learning: An Algorithmic Perspective](https://www.routledge.com/Machine-Learning-An-Algorithmic-Perspective-Second-Edition/Marsland/p/book/9781466583283) - Stephen Marsland
+## 15. [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) - Aurélien Géron
 
-## 16. [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) - Aurélien Géron
+## 16. [Deep Learning](https://www.bishopbook.com/) - Christopher M. Bishop
 
-## 17. [Deep Learning](https://www.bishopbook.com/) - Sergios Theodoridis and Konstantinos Koutroumbas
+## 17. [Applied Predictive Modeling](https://www.springer.com/gp/book/9781461468486) - Max Kuhn and Kjell Johnson
 
-## 18. [Applied Predictive Modeling](https://www.springer.com/gp/book/9781461468486) - Max Kuhn and Kjell Johnson
+## 18. [Hamiltonian Monte Carlo Methods in Machine Learning](https://www.springer.com/gp/book/9781461468486) - Tshilidzi Marwala, Rendani Mbuvha, Wilson Tsakane Mongwe
 
-## 19. [Hamiltonian Monte Carlo Methods in Machine Learning](https://www.springer.com/gp/book/9781461468486) - Tshilidzi Marwala, Rendani Mbuvha, Wilson Tsakane Mongwe
+## 19. [Probabilistic Machine Learning for Civil Engineers](https://mitpress.mit.edu/9780262538701/probabilistic-machine-learning-for-civil-engineers/) - James Goulet
 
-## 20. [Probabilistic Machine Learning for Civil Engineers](https://mitpress.mit.edu/9780262538701/probabilistic-machine-learning-for-civil-engineers/) - James Goulet
+## 20. [Inference and Learning from Data (Vol. 1-3)](https://www.amazon.com/Inference-Learning-Data-1-Foundations/dp/1009218123) - Ali H. Sayed
 
-## 21. [Inference and Learning from Data (Vol. 1-3)](https://www.amazon.com/Inference-Learning-Data-1-Foundations/dp/1009218123) - Ali H. Sayed
+## 21. [Kalman Filter from the Ground Up](https://www.kalmanfilter.net/book.html) - Alex Becker
 
-## 22. [Kalman Filter from the Ground Up](https://www.kalmanfilter.net/book.html) - Alex Becker
+## 22. [The 100-Page Machine Learning Handbook](https://themlbook.com/) - Andriy Burkov
 
-## 23. [The 100-Page Machine Learning Handbook](https://themlbook.com/) - Andriy Burkov
+## 23. [Gaussian Processes for Machine Learning](https://direct.mit.edu/books/monograph/2320/Gaussian-Processes-for-Machine-Learning) - Carl Edward Rasmussen, Christopher K. I. Williams
 
-## 24. [Gaussian Processes for Machine Learning](https://direct.mit.edu/books/monograph/2320/Gaussian-Processes-for-Machine-Learning) - Carl Edward Rasmussen, Christopher K. I. Williams
+## 24. [Machine Learning Engineering](https://www.amazon.com/Machine-Learning-Engineering-Andriy-Burkov/dp/1999579577) - Andriy Burkov
 
-## 25. [Machine Learning Engineering](https://www.amazon.com/Machine-Learning-Engineering-Andriy-Burkov/dp/1999579577) - Andriy Burkov
+## 25. [Neural Networks for Pattern Recognition](https://www.google.mw/books/edition/Neural_Networks_for_Pattern_Recognition/T0S0BgAAQBAJ?hl=en&gbpv=0) - Christopher M. Bishop
 
-## 26. [Neural Networks for Pattern Recognition](https://www.google.mw/books/edition/Neural_Networks_for_Pattern_Recognition/T0S0BgAAQBAJ?hl=en&gbpv=0) - Christopher M. Bishop
+## 26. [Understanding Deep Learning](https://udlbook.github.io/udlbook/) - Simon J.D. Prince
 
-## 27. [Understanding Deep Learning](https://udlbook.github.io/udlbook/) - Simon J.D. Prince
+## 27. [Reinforcement Learning, second edition: An Introduction (Adaptive Computation and Machine Learning series)](https://www.amazon.com/Reinforcement-Learning-Introduction-Adaptive-Computation/dp/0262039249) - Richard S. Sutton
 
-## 28. [Reinforcement Learning, second edition: An Introduction (Adaptive Computation and Machine Learning series)](https://www.amazon.com/Reinforcement-Learning-Introduction-Adaptive-Computation/dp/0262039249) - Richard S. Sutton
+## 28. [Deep Learning for Computer Vision with Python](https://pyimagesearch.com/deep-learning-computer-vision-python-book/) - Adrian Rosenblock
 
-## 29. [Deep Learning for Computer Vision with Python](https://pyimagesearch.com/deep-learning-computer-vision-python-book/) - Adrian Rosenblock
+## 29. [Mathematics for Machine Learning](https://mml-book.github.io/) - Deisenroth, A. Aldo Faisal, and Cheng Soon Ong
 
-## 30. [Mathematics for Machine Learning](https://mml-book.github.io/) - Deisenroth, A. Aldo Faisal, and Cheng Soon Ong
+## 30. [Graph Neural Networks: Foundations, Frontiers, and Applications](https://www.amazon.com/Graph-Neural-Networks-Foundations-Applications/dp/9811660530/ref=sr_1_1?dib=eyJ2IjoiMSJ9.SSm6Coppx7TCfU4V9slUDA.4zV6-wkeYUV0tASxlVoBw_BH0z39m34-Sqbkr2yXVF4&dib_tag=se&keywords=9789811660542&linkCode=qs&qid=1723981344&s=books&sr=1-1) - Jian Pei, Liang Zhao, Lingfei Wu, Peng Cui
 
-## 31. [Graph Neural Networks: Foundations, Frontiers, and Applications](https://www.amazon.com/Graph-Neural-Networks-Foundations-Applications/dp/9811660530/ref=sr_1_1?dib=eyJ2IjoiMSJ9.SSm6Coppx7TCfU4V9slUDA.4zV6-wkeYUV0tASxlVoBw_BH0z39m34-Sqbkr2yXVF4&dib_tag=se&keywords=9789811660542&linkCode=qs&qid=1723981344&s=books&sr=1-1) - Jian Pei, Liang Zhao, Lingfei Wu, Peng Cui
+## 31. [The Princeton Companion to Mathematics](https://press.princeton.edu/books/hardcover/9780691118802/the-princeton-companion-to-mathematics)
 
-## 32. [The Princeton Companion to Mathematics](https://press.princeton.edu/books/hardcover/9780691118802/the-princeton-companion-to-mathematics)
+## 32. [The Princeton Companion to Applied Mathematics](https://press.princeton.edu/books/hardcover/9780691150390/the-princeton-companion-to-applied-mathematics)
 
-## 33. [The Princeton Companion to Applied Mathematics](https://press.princeton.edu/books/hardcover/9780691150390/the-princeton-companion-to-applied-mathematics)
+## 33. [All the Mathematics You Missed: But Need to Know for Graduate School](https://www.amazon.com/All-Mathematics-Missed-Thomas-Garrity/dp/0521797071) - Thomas A. Garrity, Lori Pedersen
 
-## 34. [All the Mathematics You Missed: But Need to Know for Graduate School](https://www.amazon.com/All-Mathematics-Missed-Thomas-Garrity/dp/0521797071) - Thomas A. Garrity, Lori Pedersen
+## 34. [Fourier Series](https://www.amazon.com/Fourier-Dover-Mathematics-Georgi-Tolstov-ebook/dp/B008TVG4ES?ref_=ast_author_mpb) - Georgi P. Tolstov
 
-## 35. [Fourier Series](https://www.amazon.com/Fourier-Dover-Mathematics-Georgi-Tolstov-ebook/dp/B008TVG4ES?ref_=ast_author_mpb) - Georgi P. Tolstov
+## 35. [Deep Learning from the Basics to Practice](https://www.glassner.com/portfolio/deep-learning-from-basics-to-practice/) - Andrew Glassner
 
-## 36. [Deep Learning from the Basics to Practice](https://www.glassner.com/portfolio/deep-learning-from-basics-to-practice/) - Andrew Glassner
+## 36. [Hands-On Mathematics for Deep Learning](https://www.amazon.com/Hands-Mathematics-Deep-Learning-mathematical-ebook/dp/B085P1JG2W/ref=sr_1_1?dib=eyJ2IjoiMSJ9.qWafLWavkXr9YYKadbBbrQ.wpUQTZysaCbKuptKlg5By4iieq7FQTzq1NdcX43RbwE&dib_tag=se&keywords=9781838641849&linkCode=qs&qid=1723982156&s=books&sr=1-1) - Jay Dawani
 
-## 37. [Hands-On Mathematics for Deep Learning](https://www.amazon.com/Hands-Mathematics-Deep-Learning-mathematical-ebook/dp/B085P1JG2W/ref=sr_1_1?dib=eyJ2IjoiMSJ9.qWafLWavkXr9YYKadbBbrQ.wpUQTZysaCbKuptKlg5By4iieq7FQTzq1NdcX43RbwE&dib_tag=se&keywords=9781838641849&linkCode=qs&qid=1723982156&s=books&sr=1-1) - Jay Dawani
+## 37. [All of Statistics](https://link.springer.com/book/10.1007/978-0-387-21736-9) - Larry Wasserman
 
-## 38. [All of Statistics](https://link.springer.com/book/10.1007/978-0-387-21736-9) - Larry Wasserman
+## 38. [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) - Stephen Boyd, Lieven Vandenberghe
 
-## 39. [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) - Stephen Boyd, Lieven Vandenberghe
+## 39. [Handbook of Machine Learning (Vol 1-2)](https://www.amazon.com/s?k=9789813271227&i=stripbooks&linkCode=qs) - Tshilidzi Marwala, Collins Leke
 
-## 40. [Handbook of Machine Learning (Vol 1-2)](https://www.amazon.com/s?k=9789813271227&i=stripbooks&linkCode=qs) - Tshilidzi Marwala, Collins Leke
+## 40. [Computational Intelligence for Missing Data Imputation, Estimation and Management](https://www.google.mw/books/edition/Computational_Intelligence_for_Missing_D/1_O7K9EIl2UC?hl=en&gbpv=0) - Tshilidzi Marwala
 
-## 41. [Computational Intelligence for Missing Data Imputation, Estimation and Management](https://www.google.mw/books/edition/Computational_Intelligence_for_Missing_D/1_O7K9EIl2UC?hl=en&gbpv=0) - Tshilidzi Marwala
+## 41. [Python Tricks: A Buffet of Awesome Python Features](https://www.amazon.com/Python-Tricks-Buffet-Awesome-Features/dp/1775093301) - Dan Bader
 
-## 42. [Python Tricks: A Buffet of Awesome Python Features](https://www.amazon.com/Python-Tricks-Buffet-Awesome-Features/dp/1775093301) - Dan Bader
-
-## 43. [Professional C++](https://www.wiley.com/en-us/Professional+C%2B%2B%2C+6th+Edition-p-9781394193172) - Marc Gregoire
+## 42. [Professional C++](https://www.wiley.com/en-us/Professional+C%2B%2B%2C+6th+Edition-p-9781394193172) - Marc Gregoire
 
 
-## 44. [Bayesian Data Analysis](https://www.amazon.com/Bayesian-Analysis-Chapman-Statistical-Science/dp/1439840954/ref=sr_1_1?dib=eyJ2IjoiMSJ9.EMJLI8dChU7TlsaZx0REqfeb6fYEy6RYrNv24DVJYio.sfsdkOGKBmplp01MTNMKIF1iALHoiO9gD-mXWT7tMZE&dib_tag=se&keywords=9781439840955&linkCode=qs&qid=1723984956&s=books&sr=1-1) - Andrew Gelman
+## 43. [Bayesian Data Analysis](https://www.amazon.com/Bayesian-Analysis-Chapman-Statistical-Science/dp/1439840954/ref=sr_1_1?dib=eyJ2IjoiMSJ9.EMJLI8dChU7TlsaZx0REqfeb6fYEy6RYrNv24DVJYio.sfsdkOGKBmplp01MTNMKIF1iALHoiO9gD-mXWT7tMZE&dib_tag=se&keywords=9781439840955&linkCode=qs&qid=1723984956&s=books&sr=1-1) - Andrew Gelman
 
-## 45. [    High Performance Computing](https://www.amazon.com/High-Performance-Computing-Applications-Computational-ebook/dp/B00OD4ODHU/ref=sr_1_1?dib=eyJ2IjoiMSJ9.7WSWLRBHfml0iV-Qzcof8A.O2yEJ6o97Y7KMgdihPJO6hJp_y005T29eKBU61oPMUQ&dib_tag=se&keywords=9781420077063&linkCode=qs&qid=1723985118&s=books&sr=1-1) - John Levesque
+## 44. [    High Performance Computing](https://www.amazon.com/High-Performance-Computing-Applications-Computational-ebook/dp/B00OD4ODHU/ref=sr_1_1?dib=eyJ2IjoiMSJ9.7WSWLRBHfml0iV-Qzcof8A.O2yEJ6o97Y7KMgdihPJO6hJp_y005T29eKBU61oPMUQ&dib_tag=se&keywords=9781420077063&linkCode=qs&qid=1723985118&s=books&sr=1-1) - John Levesque
 
-## 46. [Dive into Deep Learning](https://d2l.ai/ ) - Aston Zhang
+## 45. [Dive into Deep Learning](https://d2l.ai/ ) - Aston Zhang
 
 
 
