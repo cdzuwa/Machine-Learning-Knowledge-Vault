@@ -120,6 +120,10 @@ Please note that I am not a big fan of video tutorials, and I might have omitted
 - [Lex Fridman](https://www.youtube.com/@lexfridman)
 - [ritvikmath](https://www.youtube.com/@ritvikmath)
 
+### Tools for researchers
+I find these handy for research.
+- [Overleaf](https://www.overleaf.com/)
+- [Mathpix](https://mathpix.com/)
 
 
 
