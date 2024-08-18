@@ -57,7 +57,7 @@ This is by no means a comprehensive list on the subject of ML/AI. However, I fin
 
 ## 27. [Reinforcement Learning, second edition: An Introduction (Adaptive Computation and Machine Learning series)](https://www.amazon.com/Reinforcement-Learning-Introduction-Adaptive-Computation/dp/0262039249) - Richard S. Sutton
 
-## 28. [Deep Learning for Computer Vision with Python](https://pyimagesearch.com/deep-learning-computer-vision-python-book/) - Adrian Rosenblock
+## 28. [Deep Learning for Computer Vision with Python](https://pyimagesearch.com/deep-learning-computer-vision-python-book/) - Adrian Rosenbrock
 
 ## 29. [Mathematics for Machine Learning](https://mml-book.github.io/) - Deisenroth, A. Aldo Faisal, and Cheng Soon Ong
 
