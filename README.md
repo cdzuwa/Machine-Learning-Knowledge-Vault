@@ -1,7 +1,7 @@
 # Machine-Learning-Knowledge-Vault
 This repo contains a list of core ML reference and learning materials
 
-This is by no means a comprehensive list on the subject of ML/AI. However, I find that these books tackle a wide range of subjects one is likely to encounter in machine learning. Although I have included application-specific books, such as those on computer vision, I have intentionally left out others, like those in NLP. A good number of these books cover knowledge that can be applied across almost any field of machine learning. You might also note that a significant portion of these books are more focused on theory than on hands-on practice. I firmly believe that there is nothing as practical as a good theory. For more hands-on books, there are plenty available, some of which are free. I find the resources here to be particularly insightful: [Datanovia Shop](https://www.datanovia.com/en/shop/). Recent developments in ML can be found on [arXiv](https://arxiv.org/) as the field is evolving rapidly. I also think it's important to have a look at ML theses from different universities. It helps to see how other people approach ML. In addition to books on ML, I have added a few on mathematics. I think one gains a deeper understanding of the underlying concepts by also having a passion for pure mathematics. Some of the fields I would definitely recommend include Abstract Linear Algebra, Abstract Algebra (particularly groups), Measure Theory and Integration, Manifolds, Real, Complex, and Functional Analysis. Most of these are taught in sequence on [this YouTube channel](https://www.youtube.com/channel/UCdwo4k1RQHTcq_-WS7Cazqg).
+This is by no means a comprehensive list on  ML/AI. However, I find that these books tackle a wide range of subjects one is likely to encounter in machine learning. Although I have included application-specific books, such as those on computer vision, I have intentionally left out others, like those in NLP. A good number of these books cover knowledge that can be applied across almost any field of machine learning. You might also note that a significant portion of these books are more focused on theory than on hands-on practice. I firmly believe that there is nothing as practical as a good theory. For more hands-on books, there are plenty available, some of which are free. Recent developments in ML can be found on [arXiv](https://arxiv.org/) as the field is evolving rapidly. I also think it's important to have a look at ML theses from different universities. It helps to see how other people approach ML. In addition to books on ML, I have added a few on mathematics. I think one gains a deeper understanding of the underlying concepts by also having a passion for pure/applied mathematics. Some of the fields I would definitely recommend include Abstract Linear Algebra, Abstract Algebra (groups), Measure Theory and Integration, Manifolds, Real, Complex, and Functional Analysis. Most of these are taught in sequence on [this YouTube channel](https://www.youtube.com/channel/UCdwo4k1RQHTcq_-WS7Cazqg).
 
 ## 1. [Pattern Recognition and Machine Learning](https://www.springer.com/gp/book/9780387310732) - Christopher M. Bishop
 
@@ -94,6 +94,19 @@ This is by no means a comprehensive list on the subject of ML/AI. However, I fin
 
 ## 45. [Dive into Deep Learning](https://d2l.ai/ ) - Aston Zhang
 
+## 46. [Bayesian Models of Cognition: Reverse Engineering the Mind](https://mitpress.mit.edu/9780262049412/bayesian-models-of-cognition/) -  Thomas L. Griffiths, Nick Chater and Joshua Tenenbaum
+
+## 47. [Deep Learning Architectures-A Mathematical Approach](https://link.springer.com/book/10.1007/978-3-030-36721-3) - Ovidiu Calin
+
+## 48. [Geometric Deep Learning:Grids, Groups, Graphs, Geodesics, and Gauges](https://geometricdeeplearning.com/) - Michael M. Bronstein, Joan Bruna, Taco Cohen, Petar Veličković
+
+## 49. [Geometry of Deep Learning-A Signal Processing Perspective](https://link.springer.com/book/10.1007/978-981-16-6046-7) - Jong Chul Ye
+
+## 50. [High-Dimensional Probability: An Introduction with Applications in Data Science](https://www.cambridge.org/core/books/highdimensional-probability/797C466DA29743D2C8213493BD2D2102)- Roman Vershynin
+
+
+
+
 
 
 
@@ -112,11 +125,12 @@ Please note that I am not a big fan of video tutorials, and I might have omitted
 - [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy/videos)
 - [StatQuest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
 - [Machine Learning Street Talk](https://www.youtube.com/channel/UCMLtBahI5DMrt0NPvDSoIRQ)
-
+- [Yannic Kilcher](https://www.youtube.com/@YannicKilcher)
 - [MathWorld by Wolfram](https://mathworld.wolfram.com/)
+- [Deep Learning Bible](https://wikidocs.net/book/7972)
+- [Steve Brunton](https://www.youtube.com/@Eigensteve)
 - [Machine Learning Mastery](https://machinelearningmastery.com/)
 - [DeepLearning.AI](https://www.deeplearning.ai/)
-- [The Math Sorcerer](https://www.youtube.com/@TheMathSorcerer)
 - [Lex Fridman](https://www.youtube.com/@lexfridman)
 - [ritvikmath](https://www.youtube.com/@ritvikmath)
 
