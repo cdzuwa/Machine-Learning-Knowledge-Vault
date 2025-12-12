@@ -102,22 +102,22 @@
 
 ## 51. [Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Machine Learning](https://www.cis.upenn.edu/~jean/gbooks/geomath.html)-Jean Gallier
 
-## 52. [Data driven science and engineering] (https://www.cambridge.org/core/books/datadriven-science-and-engineering/77D52B171B60A496EAFE4DB662ADC36E) - Steven Brunton
+## 52. [Data driven science and engineering](https://www.cambridge.org/core/books/datadriven-science-and-engineering/77D52B171B60A496EAFE4DB662ADC36E) - Steven Brunton
 
 ## 53. [Deep learning on graphs](https://www.cambridge.org/core/books/deep-learning-on-graphs/CF908050EECC148A9E6F3EAED6099DB4)-Yao Ma 
 
-## 54. [Mathematical theory of deep learning] (https://arxiv.org/pdf/2407.18384)- Philipp Petersen
+## 54. [Mathematical theory of deep learning](https://arxiv.org/pdf/2407.18384)- Philipp Petersen
 ## 55. [Mathematical Foundations of Geometric Deep Learning] (https://arxiv.org/pdf/2508.02723)- Haitz Saez de Oc ´ ariz Borde and Michael Bronstein
 
 ## 56. [Active Inference: The Free Energy Principle in Mind, Brain, and Behavior](https://direct.mit.edu/books/oa-monograph/5299/Active-InferenceThe-Free-Energy-Principle-in-Mind)- Thomas Parr
 
 ## 57. [Aalto Dictionary of Machine Learning (ADictML)](https://aaltodictionaryofml.github.io/)-Alex Jung
 
-## 58. [The Principles of Deep Learning Theory] (https://arxiv.org/pdf/2106.10165)-Daniel A. Roberts and Sho Yaida
+## 58. [The Principles of Deep Learning Theory](https://arxiv.org/pdf/2106.10165)-Daniel A. Roberts and Sho Yaida
 
-## 59. [Machine Learning-A Bayesian and Optimization Perspective] (https://shop.elsevier.com/books/machine-learning/theodoridis/978-0-12-818803-3)-Sergios Theodoridis
+## 59. [Machine Learning-A Bayesian and Optimization Perspective](https://shop.elsevier.com/books/machine-learning/theodoridis/978-0-12-818803-3)-Sergios Theodoridis
 
-## 60. [Mathematical Introduction to Deep Learning: Methods, Implementations, and Theory] (https://arxiv.org/pdf/2310.20360) - Arnulf Jentzen
+## 60. [Mathematical Introduction to Deep Learning: Methods, Implementations, and Theory](https://arxiv.org/pdf/2310.20360) - Arnulf Jentzen
 
 
 
