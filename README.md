@@ -1,8 +1,4 @@
 # Machine-Learning-Knowledge-Vault
-This repo contains a list of core ML reference and learning materials
-
-This is by no means a comprehensive list on  ML/AI. However, I find that these books tackle a wide range of subjects one is likely to encounter in machine learning. Although I have included application-specific books, such as those on computer vision, I have intentionally left out others, like those in NLP. A good number of these books cover knowledge that can be applied across almost any field of machine learning. You might also note that a significant portion of these books are more focused on theory than on hands-on practice. I firmly believe that there is nothing as practical as a good theory. For more hands-on books, there are plenty available, some of which are free. Recent developments in ML can be found on [arXiv](https://arxiv.org/) as the field is evolving rapidly. I also think it's important to have a look at ML theses from different universities. It helps to see how other people approach ML. In addition to books on ML, I have added a few on mathematics. I think one gains a deeper understanding of the underlying concepts by also having a passion for pure/applied mathematics. Some of the fields I would definitely recommend include Abstract Linear Algebra, Abstract Algebra (groups), Measure Theory and Integration, Manifolds, Real, Complex, and Functional Analysis. Most of these are taught in sequence on [this YouTube channel](https://www.youtube.com/channel/UCdwo4k1RQHTcq_-WS7Cazqg).
-
 ## 1. [Pattern Recognition and Machine Learning](https://www.springer.com/gp/book/9780387310732) - Christopher M. Bishop
 
 ## 2. [Machine Learning: A Probabilistic Perspective](https://mitpress.mit.edu/books/machine-learning-1) - Kevin P. Murphy
@@ -104,11 +100,24 @@ This is by no means a comprehensive list on  ML/AI. However, I find that these b
 
 ## 50. [High-Dimensional Probability: An Introduction with Applications in Data Science](https://www.cambridge.org/core/books/highdimensional-probability/797C466DA29743D2C8213493BD2D2102)- Roman Vershynin
 
+## 51. [Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Machine Learning](https://www.cis.upenn.edu/~jean/gbooks/geomath.html)-Jean Gallier
 
+## 52. [Data driven science and engineering] (https://www.cambridge.org/core/books/datadriven-science-and-engineering/77D52B171B60A496EAFE4DB662ADC36E) - Steven Brunton
 
+## 53. [Deep learning on graphs](https://www.cambridge.org/core/books/deep-learning-on-graphs/CF908050EECC148A9E6F3EAED6099DB4)-Yao Ma 
 
+## 54. [Mathematical theory of deep learning] (https://arxiv.org/pdf/2407.18384)- Philipp Petersen
+## 55. [Mathematical Foundations of Geometric Deep Learning] (https://arxiv.org/pdf/2508.02723)- Haitz Saez de Oc ´ ariz Borde and Michael Bronstein
 
+## 56. [Active Inference: The Free Energy Principle in Mind, Brain, and Behavior](https://direct.mit.edu/books/oa-monograph/5299/Active-InferenceThe-Free-Energy-Principle-in-Mind)- Thomas Parr
 
+## 57. [Aalto Dictionary of Machine Learning (ADictML)](https://aaltodictionaryofml.github.io/)-Alex Jung
+
+## 58. [The Principles of Deep Learning Theory] (https://arxiv.org/pdf/2106.10165)-Daniel A. Roberts and Sho Yaida
+
+## 59. [Machine Learning-A Bayesian and Optimization Perspective] (https://shop.elsevier.com/books/machine-learning/theodoridis/978-0-12-818803-3)-Sergios Theodoridis
+
+## 60. [Mathematical Introduction to Deep Learning: Methods, Implementations, and Theory] (https://arxiv.org/pdf/2310.20360) - Arnulf Jentzen
 
 
 
@@ -133,6 +142,7 @@ Please note that I am not a big fan of video tutorials, and I might have omitted
 - [DeepLearning.AI](https://www.deeplearning.ai/)
 - [Lex Fridman](https://www.youtube.com/@lexfridman)
 - [ritvikmath](https://www.youtube.com/@ritvikmath)
+- [BASIRA Lab](https://www.youtube.com/@basiralab)
 
 ### Tools for researchers
 I find these handy for research.
