@@ -119,6 +119,10 @@
 
 ## 60. [Mathematical Introduction to Deep Learning: Methods, Implementations, and Theory](https://arxiv.org/pdf/2310.20360) - Arnulf Jentzen
 
+## 61. [Mathematical Foundations of Deep Learning Models and Algorithms](https://bookstore.ams.org/gsm-252) - Konstantinos Spiliopoulos, Richard B. Sowers, Justin Sirignano
+
+## 62. [Kernel Methods and Machine Learning](https://www.cambridge.org/core/books/kernel-methods-and-machine-learning/4B52092A98E1553A26EB5271D832D29E) - S. Y. Kung
+
 
 
 
@@ -143,6 +147,7 @@ Please note that I am not a big fan of video tutorials, and I might have omitted
 - [Lex Fridman](https://www.youtube.com/@lexfridman)
 - [ritvikmath](https://www.youtube.com/@ritvikmath)
 - [BASIRA Lab](https://www.youtube.com/@basiralab)
+- [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/)
 
 ### Tools for researchers
 I find these handy for research.
