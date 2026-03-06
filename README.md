@@ -123,6 +123,8 @@
 
 ## 62. [Kernel Methods and Machine Learning](https://www.cambridge.org/core/books/kernel-methods-and-machine-learning/4B52092A98E1553A26EB5271D832D29E) - S. Y. Kung
 
+## 63. [Learning From Data](https://amlbook.com/)-Yaser S. Abu-Mostafa 
+
 
 
 
