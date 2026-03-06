@@ -150,6 +150,7 @@ Please note that I am not a big fan of video tutorials, and I might have omitted
 - [ritvikmath](https://www.youtube.com/@ritvikmath)
 - [BASIRA Lab](https://www.youtube.com/@basiralab)
 - [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/)
+- [Ben Lambert](https://www.youtube.com/@SpartacanUsuals)
 
 ### Tools for researchers
 I find these handy for research.
