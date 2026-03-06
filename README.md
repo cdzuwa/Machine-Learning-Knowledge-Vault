@@ -125,6 +125,10 @@
 
 ## 63. [Learning From Data](https://amlbook.com/)-Yaser S. Abu-Mostafa 
 
+## 64. [Time Series Analysis](https://www.amazon.com/Time-Analysis-James-Douglas-Hamilton/dp/0691042896)-James D. Hamilton 
+
+## 65. [Mathematics of Machine Learning](https://www.oreilly.com/library/view/mathematics-of-machine/9781837027873/)-Tivadar Danka
+
 
 
 
