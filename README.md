@@ -133,6 +133,8 @@
 
 ## 67. [Information Geometry and Its Applications](https://link.springer.com/book/10.1007/978-4-431-55978-8)-Shun-ichi Amari
 
+## 68. [Machine Learning Evaluation:Towards Reliable and Responsible AI](https://www.cambridge.org/core/books/machine-learning-evaluation/8AB8B77D2F1D715F0A5CB0CB0813F5E7)-Nathalie Japkowicz &  Zois Boukouvalas
+
 
 
 
