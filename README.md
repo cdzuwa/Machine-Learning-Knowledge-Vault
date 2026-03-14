@@ -129,6 +129,10 @@
 
 ## 65. [Mathematics of Machine Learning](https://www.oreilly.com/library/view/mathematics-of-machine/9781837027873/)-Tivadar Danka
 
+## 66. [Tensor Decompositions for Data Science](https://www.cambridge.org/core/books/tensor-decompositions-for-data-science/640814D308696CD61CB9112EA57B2911)- Grey Ballard & Tamara G. Kolda
+
+## 67. [Information Geometry and Its Applications](https://link.springer.com/book/10.1007/978-4-431-55978-8)-Shun-ichi Amari
+
 
 
 
@@ -136,6 +140,7 @@ Please note that I am not a big fan of video tutorials, and I might have omitted
 
 ### Go-To Sites
 - [Brilliant.org](https://brilliant.org/)
+- [Cambridge Machine Learning Group](https://mlg.eng.cam.ac.uk/pub/)
 - [The Bright Side of Mathematics](https://thebrightsideofmathematics.com/)
 - [3Blue1Brown](https://www.3blue1brown.com/)
 - [Tibees](https://www.youtube.com/@tibees)
