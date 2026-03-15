@@ -135,6 +135,8 @@
 
 ## 68. [Machine Learning Evaluation:Towards Reliable and Responsible AI](https://www.cambridge.org/core/books/machine-learning-evaluation/8AB8B77D2F1D715F0A5CB0CB0813F5E7)-Nathalie Japkowicz &  Zois Boukouvalas
 
+## 69. [Causality:Models, reasoning and inference](https://archive.illc.uva.nl/cil/uploaded_files/inlineitem/Pearl_2009_Causality.pdf)-Judea Pearl
+
 
 
 
