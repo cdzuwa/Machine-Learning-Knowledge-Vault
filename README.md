@@ -166,6 +166,12 @@ Please note that I am not a big fan of video tutorials, and I might have omitted
 - [BASIRA Lab](https://www.youtube.com/@basiralab)
 - [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/)
 - [Ben Lambert](https://www.youtube.com/@SpartacanUsuals)
+- [Gregory Gundersen](https://gregorygundersen.com/blog/)
+- [Matthew N. Bernstein](https://mbernste.github.io/)
+- [Distill](https://distill.pub/)
+- [Christopher Olah](https://colah.github.io/about.html)
+- [Neel Nanda](https://www.neelnanda.io/about)
+- [Jean Gallier](https://www.cis.upenn.edu/~jean/gbooks/home.html)
 
 ### Tools for researchers
 I find these handy for research.
