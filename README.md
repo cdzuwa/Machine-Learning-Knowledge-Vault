@@ -172,6 +172,8 @@ Please note that I am not a big fan of video tutorials, and I might have omitted
 - [Christopher Olah](https://colah.github.io/about.html)
 - [Neel Nanda](https://www.neelnanda.io/about)
 - [Jean Gallier](https://www.cis.upenn.edu/~jean/gbooks/home.html)
+- [Jürgen Schmidhuber](https://people.idsia.ch/~juergen/blog.html)
+- [Yann Lecun](https://yann.lecun.org/ex/)
 
 ### Tools for researchers
 I find these handy for research.
