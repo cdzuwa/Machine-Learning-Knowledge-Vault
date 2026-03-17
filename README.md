@@ -137,6 +137,8 @@
 
 ## 69. [Causality:Models, reasoning and inference](https://archive.illc.uva.nl/cil/uploaded_files/inlineitem/Pearl_2009_Causality.pdf)-Judea Pearl
 
+## 70. [Bayesian Machine Learning in Quantitative Finance:Theory and Practical Applications](https://link.springer.com/book/10.1007/978-3-031-88431-3)-Wilson Tsakane Mongwe , Rendani Mbuvha , Tshilidzi Marwala
+
 
 
 
