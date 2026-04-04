@@ -139,6 +139,8 @@
 
 ## 70. [Bayesian Machine Learning in Quantitative Finance:Theory and Practical Applications](https://link.springer.com/book/10.1007/978-3-031-88431-3)-Wilson Tsakane Mongwe , Rendani Mbuvha , Tshilidzi Marwala
 
+## 71. [Deep learning theory lecture notes](https://mjt.cs.illinois.edu/dlt/)-Matus Telgarsky
+
 
 
 
@@ -174,6 +176,7 @@ Please note that I am not a big fan of video tutorials, and I might have omitted
 - [Jean Gallier](https://www.cis.upenn.edu/~jean/gbooks/home.html)
 - [Jürgen Schmidhuber](https://people.idsia.ch/~juergen/blog.html)
 - [Yann Lecun](https://yann.lecun.org/ex/)
+- [Tübingen Machine Learning](https://www.youtube.com/@T%C3%BCbingenMachineLearning/playlists)
 
 ### Tools for researchers
 I find these handy for research.
