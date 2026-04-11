@@ -182,6 +182,7 @@ Please note that I am not a big fan of video tutorials, and I might have omitted
 I find these handy for research.
 - [Overleaf](https://www.overleaf.com/)
 - [Mathpix](https://mathpix.com/)
+- [arxiv-utils](https://chromewebstore.google.com/detail/arxiv-utils/mnhdpeipjhhkmlhlcljdjpgmilbmehij)
 
 
 
